@@ -26,10 +26,6 @@ For Software:
 - HTML,js,cs
 - visual code studio
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
