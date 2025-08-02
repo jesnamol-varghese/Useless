@@ -42,24 +42,11 @@ For Software:
 Useless(1)(https://github.com/user-attachments/assets/3f7edbb5-27ab-42c4-98be-117632215e10)
 This is the screenshot of js code that we used for developing this
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+Useless(2)(https://github.com/user-attachments/assets/6cc2832f-2a3c-4160-b3b9-0d46f3f23426)
+This is the screenshot of HTML code
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+Useless(3)(https://github.com/user-attachments/assets/cf464e2c-041c-476c-b66f-104184207c7c)
+This shoows the final loading page of Greyskale
 
 # Build Photos
 ![Components](Add photo of your components here)
@@ -73,15 +60,15 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+
+The video demonstrates the working of the website earned through careful observation and paitaence.
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- Name : Deepak M R
-- Name : Jesnamol Varghese
+- Deepak M R : Build designs and create projects
+- Jesnamol Varghese : Design and create beautiful designs
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
