@@ -40,8 +40,7 @@ For Software:
 
 # Screenshots (Add at least 3)
 Useless(1)(https://github.com/user-attachments/assets/3f7edbb5-27ab-42c4-98be-117632215e10)
-
-*Add caption explaining what this shows*
+This is the screenshot of js code that we used for developing this
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
